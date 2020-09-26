@@ -12,8 +12,12 @@ Create Circle ProgressBar in Android
 
 This is an Android project allowing to realize a circle ProgressBar with gradient color in the simplest way possible.
 
+Customized ProgressBar
+-----
 Language: Kotlin
+-----
 Platform: Android
+-----
 
 LICENCE
 -----
