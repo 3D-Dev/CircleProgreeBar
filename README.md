@@ -2,7 +2,7 @@
 Create Circle ProgressBar in Android
 <p align="center"><img src="/preview/1.png"></p>
 
-<img src="/preview/1.jpg" alt="sample" title="sample" width="300" height="480" align="right" vspace="24" />
+<img src="/preview/1.jpg" alt="sample" title="sample" width="400" height="400" align="right" vspace="24" />
 
 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
