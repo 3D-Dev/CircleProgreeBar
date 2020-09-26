@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="circleBackground">#F4F4F4</color>
+    <color name="calorieCircleGradientColor1">#f3d90b</color>
+    <color name="calorieCircleGradientColor2">#c5f9e0</color>
+    <color name="calorieCircleGradientColor3">#d9eb82</color>
+</resources>
