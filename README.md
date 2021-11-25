@@ -22,5 +22,5 @@ Platform: Android
 LICENCE
 -----
 
-CircularProgressBar by [PROCW](https://join.skype.com/invite/vk1qHxZHyl2Z) is licensed under a [MIT License](https://opensource.org/licenses/MIT).
+CircularProgressBar by [PROCW](https://join.skype.com/invite/zC4qusVIYRdT) is licensed under a [MIT License](https://opensource.org/licenses/MIT).
 Based on a work at [CircleProgressBar](https://github.com/PROCW/CircleProgreeBar).
